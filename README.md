@@ -1,4 +1,4 @@
-# Enkronos Generation Token Event (GTE)
+# Enkronos Token Generation Event (TGE)
 
 Enkronos Apps: A Fully Trusted Blockchain Credit System for Ethic Data Driven Campaigns.<br>
 <i>EnkronosTokens (ENK) are the utility tokens, used for operations on Enkronos Apps Platform.</i><br>
@@ -15,6 +15,8 @@ LinkedIn: https://www.linkedin.com/company/enkronos/<br>
 Facebook: https://www.facebook.com/enkronos/<br>
 Twitter: https://twitter.com/enkronos/<br>
 Instagram: https://instagram.com/enkronos/<br>
+Reddit: https://www.reddit.com/r/EnkronosApps/<br>
+ProductHunt: https://www.producthunt.com/posts/enkronos-apps<br>
 Medium: https://medium.com/enkronos<br>
 Telegram Channel: https://t.me/enkronos<br>
 Telegram Group: https://t.me/joinchat/Aplk7BMPqcV2UMJHRQYh-w<br>
