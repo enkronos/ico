@@ -9,7 +9,9 @@ Company Website: https://www.enkronos.com/<br>
 <b>Our products are live:</b><br>
 Enkronos Apps Login: https://apps.enkronos.com<br>
 Contest Dream: https://www.contestdream.com<br>
-Loyalty Venue: https://www.loyaltyvenue.com
+Loyalty Venue: https://www.loyaltyvenue.com<br>
+<b>Support for our products:</b><br>
+Enkronos Support: https://www.enkronos.com/support/<br>
 <br><br><b>Social Media Presence</b>:<br>
 LinkedIn: https://www.linkedin.com/company/enkronos/<br>
 Facebook: https://www.facebook.com/enkronos/<br>
