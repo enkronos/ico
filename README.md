@@ -4,6 +4,8 @@ Enkronos Apps: A Fully Trusted Blockchain Credit System for Ethic Data Driven Ca
 <i>EnkronosTokens (ENK) are the utility tokens, used for operations on Enkronos Apps Platform.</i><br>
 
 TGE Website: https://ico.enkronos.com/<br>
+Tokensale Smart Contract: 0xfeFB0571739844377e2aC29BE930146a940Cb504<br>
+Smart Contract on Etherscan: https://etherscan.io/address/0xfefb0571739844377e2ac29be930146a940cb504<br>
 Company Website: https://www.enkronos.com/<br>
 <br>
 <b>Our products are live:</b><br>
