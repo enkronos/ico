@@ -20,7 +20,7 @@ LinkedIn: https://www.linkedin.com/company/enkronos/<br>
 Facebook: https://www.facebook.com/enkronos/<br>
 Twitter: https://twitter.com/enkronos/<br>
 Instagram: https://instagram.com/enkronos/<br>
-YouTube: https://www.youtube.com/channel/UC2OW3UrPJiCnx-Y6EyL25RA<br>
+YouTube: https://www.youtube.com/enkronos<br>
 BitcoinTalk: https://bitcointalk.org/index.php?topic=3738168.0<br>
 Reddit: https://www.reddit.com/r/EnkronosApps/<br>
 ProductHunt: https://www.producthunt.com/posts/enkronos-apps<br>
